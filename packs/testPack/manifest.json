@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "testPack",
+    "name": "testPack",
+    "uuid": "04d1dbee-8b7a-4d87-9cd9-9c7f1b1fed60",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      110
+    ]
+  },
+  "modules": [
+    {
+      "description": "testPack",
+      "type": "resources",
+      "uuid": "11a20b68-7e89-4de7-9975-9bbfd67d6053",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
