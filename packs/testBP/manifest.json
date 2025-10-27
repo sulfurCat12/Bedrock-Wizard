@@ -1,0 +1,45 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "testBP",
+    "name": "testBP",
+    "uuid": "2dee1ff2-a041-4340-9b8e-258b31e04c3d",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "testBP",
+      "type": "data",
+      "uuid": "0dd7c38c-df26-4b7f-96e5-941ab68c7299",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "description": "testBP",
+      "type": "client_data",
+      "uuid": "1f24ac64-4544-4e60-b337-cafa90cec277",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "978bff5f-f952-4b71-b0c6-0669a01dcbe5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

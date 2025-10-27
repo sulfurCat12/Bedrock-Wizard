@@ -1,9 +1,9 @@
 {
   "format_version": 2,
   "header": {
-    "description": "testPack",
-    "name": "testPack",
-    "uuid": "04d1dbee-8b7a-4d87-9cd9-9c7f1b1fed60",
+    "description": "testAddon",
+    "name": "testAddon",
+    "uuid": "4cd9b615-c9d7-40af-8259-b4027bea8e6b",
     "version": [
       1,
       0,
@@ -17,9 +17,9 @@
   },
   "modules": [
     {
-      "description": "testPack",
+      "description": "testAddon",
       "type": "resources",
-      "uuid": "11a20b68-7e89-4de7-9975-9bbfd67d6053",
+      "uuid": "7da49e01-8d63-42d4-96f7-5a5626e7f5be",
       "version": [
         1,
         0,
