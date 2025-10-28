@@ -77,7 +77,6 @@ def manifest_BP():
     with open(f'packs/{name}/BP/manifest.json', 'w') as f:
       f.write(manifest_json)
 
-
 def init():
   global name, desc, BPorRP
   print("MC Pack Template Generator\n")
@@ -101,6 +100,5 @@ def init():
     print(f'Addon Pack Template successfully generated at packs/{name}')
   else:
     print('Error; Please enter a valid type')
-
 
 init()
