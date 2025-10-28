@@ -84,7 +84,7 @@ def init():
   name = str(input('> Name: '))
   desc = str(input('> Description: '))
 
-  BPorRP = int(input('> What type of pack do you want to generate? (1/2/3)\n1. Resource Pack\n2. Behaviour Pack\n3. Addon (RP + BP)\n'))
+  BPorRP = int(input('> What type of pack do you want to generate? (1/2/3)\n1. Resource Pack\n2. Behaviour Pack\n3. Addon (RP + BP)\n> '))
 
   os.makedirs(f'packs/{name}', exist_ok=True)
 

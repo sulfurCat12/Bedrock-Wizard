@@ -1,0 +1,45 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "testAddon",
+    "name": "testAddon",
+    "uuid": "42a9c6a0-499e-4dc7-ab2b-e18db1ed7e4b",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "testAddon",
+      "type": "data",
+      "uuid": "8f852ff2-b685-4e59-b205-ce615130e8db",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "description": "testAddon",
+      "type": "client_data",
+      "uuid": "dcbef1a9-91ba-4d41-9268-d3588b799888",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "3e83c51e-6bc9-4208-9408-fd4ce7370e97",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

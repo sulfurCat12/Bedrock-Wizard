@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "testAddon",
+    "name": "testAddon",
+    "uuid": "3e83c51e-6bc9-4208-9408-fd4ce7370e97",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      110
+    ]
+  },
+  "modules": [
+    {
+      "description": "testAddon",
+      "type": "resources",
+      "uuid": "22c125f1-4783-43c9-969f-50890774ec64",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

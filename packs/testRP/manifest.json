@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "testRP",
+    "name": "testRP",
+    "uuid": "4df9a853-c945-468b-9477-289888a5eacc",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      110
+    ]
+  },
+  "modules": [
+    {
+      "description": "testRP",
+      "type": "resources",
+      "uuid": "828661fa-607d-4674-8d13-b1f238a1e18e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
